@@ -1,13 +1,13 @@
 ---
-name: Shazia Ruybal Pesántez
+name: Maryam Nouri-Aiin
 qualifications: PhD
 # position: "Postdoctoral Scientist"
-# address: "London, UK"
+# address: "Vermont, USA"
 # profilepic: "./img/headshot_2020.png"
 www: shaziaruybal.com
-email: "s.ruybal@imperial.ac.uk"
-twitter: DrShaziaRuybal
-github: shaziaruybal
+email: "maryam.nouri-aiin@uvm.edu"
+#twitter: DrShaziaRuybal
+github: maryam-nouriaiin
 orcid: "0000-0002-0495-179X"
 googlescholar: "E7dY4foAAAAJ"
 aboutme: "Genomic epidemiologist with expertise in population genetics, bioinformatics, and epidemiology. I'm interested in combining these approaches to population-based studies of infectious diseases, particularly malaria, and more recently COVID-19. My work has involved international collaborations in West Africa, Asia-Pacific and the Americas, and spans applied epidemiology and capacity-building in the field, to genetics and genomics in the lab, to the downstream analytics using advanced approaches and digital tools. I am an avid `R` user for data processing, visualization, communication, reports/dashboards, shiny web applications and am passionate about open science and the development of digital tools for research."
